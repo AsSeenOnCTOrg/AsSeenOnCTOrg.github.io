@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/AsSeenOnCTOrg.github.io/static/css/main.dc770a40.css",
+    "main.js": "/AsSeenOnCTOrg.github.io/static/js/main.b8ff56d1.js",
+    "static/js/787.c1112931.chunk.js": "/AsSeenOnCTOrg.github.io/static/js/787.c1112931.chunk.js",
+    "static/media/comingsoon.png": "/AsSeenOnCTOrg.github.io/static/media/comingsoon.61395ad2b1ce8d6fc94a.png",
+    "static/media/asseenonct.png": "/AsSeenOnCTOrg.github.io/static/media/asseenonct.682cb87ba4fb4dc0ad50.png",
+    "index.html": "/AsSeenOnCTOrg.github.io/index.html",
+    "main.dc770a40.css.map": "/AsSeenOnCTOrg.github.io/static/css/main.dc770a40.css.map",
+    "main.b8ff56d1.js.map": "/AsSeenOnCTOrg.github.io/static/js/main.b8ff56d1.js.map",
+    "787.c1112931.chunk.js.map": "/AsSeenOnCTOrg.github.io/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc770a40.css",
+    "static/js/main.b8ff56d1.js"
+  ]
+}
