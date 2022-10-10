@@ -1,7 +1,7 @@
 {
   "name": "app",
   "version": "0.1.0",
-  "homepage": "https://AsSeenOnCTOrg.github.io/AsSeenOnCTOrg.github.io",
+  "homepage": "http://asseenonctorg.com",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
